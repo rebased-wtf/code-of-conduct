@@ -17,6 +17,8 @@ Contact one of the meetup organisers immediately (rebasedwtf@gmail.com):
 
 There'll always be at least one of them at any rebased meetup-sponsored space.
 
+We want everyone to help create a supportive and comfortable environment: if you notice someone seems distressed, isolated, or uncomfortable, please check in if appropriate or let an organiser know.
+
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
@@ -26,6 +28,7 @@ Examples of behavior that contributes to a positive environment for our communit
 - Giving and gracefully accepting constructive feedback
 - Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 - Focusing on what is best not just for us as individuals, but for the overall community
+- Looking out for one another and speaking up if someone seems uncomfortable, unsafe, or in need of support
 
 ## The Quick Version
 
@@ -41,7 +44,7 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing or other inappropriate behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the meetup organisers immediately via the contact details provided above.
+If you are being harassed, notice that someone else is being harassed, see a situation that feels unsafe or uncomfortable, or have any other concerns, please contact a member of the meetup organisers immediately via the contact details provided above. You do not need to be certain that a rule has been broken - if something feels off, we would rather know and check in.
 
 The organisers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
 
